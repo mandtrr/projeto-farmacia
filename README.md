@@ -115,5 +115,5 @@ Este projeto é de uso interno e não possui uma licença pública no momento.
 
 ---
 
-💙 **Desenvolvido por Seu Nome** ✨
+💙 **Desenvolvido por Amanda Alves ✨
 
